@@ -49,6 +49,9 @@
 ![Contact](Screenshots/Contact-Form.png)
 
 ## 🌐 Live Preview
+ ⚠️ A Quick Heads-Up
+
+Since the site is hosted for free on Render, it might take a little longer to load if you’re visiting it after some time (Render puts inactive sites to sleep to save resources). Don’t worry — once it wakes up, everything runs smoothly!
 
 🔗 [https://kayra-beverages.onrender.com](https://kayra-beverages.onrender.com)
 
